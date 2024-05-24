@@ -1,0 +1,245 @@
+body{
+    /* background-color: rgb(252, 232, 218); */
+    font-family: sans-serif;
+}
+*{
+    text-decoration: none;
+    color: #000;
+}
+#divone{
+    text-align: left;
+    padding-left: 12%;
+    
+}
+.lione{
+    display: inline-block;
+    font-family: sans-serif;
+    padding: 15px;
+    font-size: 20px;
+    padding-right: 50px;
+}
+.litwo{
+    display: inline-block;
+    font-family: sans-serif;
+    padding: 15px;
+    font-size: 13px;
+}
+.lithree{
+    display: inline-block;
+    font-family: sans-serif;
+    padding: 15px;
+    font-size: 13px;
+}
+.lithreenun{
+    display: inline-block;
+    font-family: sans-serif;
+    padding: 15px;
+    font-size: 13px;
+}
+.search{
+    width: 20px;
+    min-width: 10px;
+}
+.shopingcar{
+    width: 20px;
+    min-width: 10px;
+}
+.signup{
+    max-width: 20px;
+    min-width: 10px;
+}
+.lithreeli{
+    display: inline-block;
+    font-family: sans-serif;
+    padding: 15px;
+    font-size: 14px;
+    padding-left: 18%;
+}
+/* .bggif{
+    background-image: https://images.samsung.com/is/image/samsung/assets/pk/offer/prelaunch1/21_sw_pl_f01_kv_pc_1440x6401.jpg?imwidth=1366;
+} */
+.imgone{
+    padding-left: 12%;
+}
+.lione{
+    color: #000;
+}
+.litwo{
+    color: #000;
+}
+.lithree{
+    color: #000;
+}
+.lithreeli{
+    color: #000;
+}
+/* .lione :hover{
+    color: white;
+} */
+.litwo :hover{
+    color: white;
+    background-color: black;
+    padding: 5px;
+    border-radius: 15px;
+}
+.lithree :hover{
+    color: white;
+    background-color: black;
+    padding: 5px;
+    border-radius: 15px;
+}
+.lithreeli :hover{
+    color: white;
+    background-color: black;
+    padding: 5px;
+    border-radius: 15px;
+}
+.pone{
+    font-size: 35px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lifourdiv{
+    text-align: center;
+}
+.lifour{
+    display: inline-block;
+    padding: 10px;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+/* .maindiv1{
+    display: inline-block;
+} */
+.span1{
+    font-size: 10px;
+    color: slategrey;
+}
+.div1{
+    /* max-width: 200px; */
+    /* min-width: 100px; */
+    display: inline-block;
+    /* border-radius: 20px; */
+}
+.firstimg{
+    /* text-align: center; */
+    width: 550px;
+    height: 550px;
+    display: inline-block;
+    border-radius: 20px;
+}
+.div2{
+    /* display: inline-block; */
+    /* border-radius: 20px; */
+    /* width: 300px; */
+    padding-bottom: 5px;
+}
+.img1{
+    /* font-size: 100px; */
+    max-width: 200px;
+    min-width: 20px;
+    border-radius: 20px;
+    /* display: inline-block; */
+}
+.img2{
+    border-radius: 20px;
+    max-width: 200px;
+    min-width: 20px;
+}
+.div3{
+    /* display: inline-block; */
+    border: solid #ffffff;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    overflow: auto;
+    padding: 3%;
+    height: 300px;
+}
+.div31{
+    /* display: inline-block; */
+    font-size: px;
+    border: solid #ffffff;
+    background-color: white;
+    border-radius: 20px;
+    overflow: auto;
+}
+.div32{
+    /* display: inline-block; */
+    border: solid #ffffff;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    overflow: auto;
+    padding: 5%;
+    height: 200px;
+}
+.img3{
+    border-radius: 20px;
+    max-width: 200px;
+    min-width: 20px;
+}
+.img4{
+    border-radius: 20px;
+    max-width: 200px;
+    min-width: 20px;
+}
+.contaner{
+    display: inline-block;
+    padding: 10px;
+}
+.firstimg :hover{
+    transform: scale(1.5);
+    box-shadow: 0 0 40px -10px reda(0, 0, 0, 0.25);
+}
+/* .img1 :hover{
+    transform: scale(1.5);
+    box-shadow: 0 0 40px -10px reda(0, 0, 0, 0.25);
+}
+.img2 :hover{
+
+}
+.img3 :hover{
+
+}
+.img4 :hover{
+
+} */
+.img5{
+    width: 650px;
+    /* text-align: right; */
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.ptwo{
+    font-size: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.lifive{
+    font-size: 13px;
+    display: inline-block;
+    padding: 10px;
+}
+.lisix{
+    font-size: 13px;
+    display: inline-block;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: black;
+    border-radius: 20px;
+}
+.divfour{
+    text-align: center;
+}
+.bgimage{
+    /* background-image: url(img); */
+    width: 80%;
+    height: 800px;
+    padding-left: 13%;
+}
+.img6{
+    width: 700px;
+    /* text-align: right; */
+    padding-left: 30%;
+    padding-right: 30%;
+}
